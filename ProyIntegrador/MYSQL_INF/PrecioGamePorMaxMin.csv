@@ -1,0 +1,8 @@
+platforms,min_price,max_price
+windows;mac;linux,0.00,60.99
+windows;mac,0.00,303.99
+windows,0.00,421.99
+windows;linux,0.00,39.99
+mac,0.00,15.49
+mac;linux,3.49,3.49
+linux,0.00,0.00

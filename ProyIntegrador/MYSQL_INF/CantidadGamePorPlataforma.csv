@@ -1,0 +1,8 @@
+platforms,count
+windows;mac;linux,4620
+windows;mac,3438
+windows,18389
+windows;linux,609
+mac,3
+mac;linux,1
+linux,1
